@@ -5,4 +5,4 @@
 - ~1968 Summer job
 - ~2008 Got into programming on a TI Voyage 200
 - ~2009 Apprenticeship at ZLI
-- ~20010-2013 Apprenticeship at SWITCH
+- ~2010-2013 Apprenticeship at SWITCH
