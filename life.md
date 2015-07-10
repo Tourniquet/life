@@ -21,9 +21,10 @@
 - 08/2011-08/2011 Learned to love the command line, Vim
 - 01/2012 Java Web development on Tomcat
 - 01/2013 Implemented a Bounce Mail Handler in Perl
-- 05/2013 Java Web development on JBoss/JSF
 - 23/4/2013 Got my driver's license
+- 05/2013 Java Web development on JBoss/JSF
 - 5/2014 Got an EBCL Certificate
 - 3/6/2014 Berufsmaturitaet
 - 08/2014-~ Studying information technology at Hochschule für Technik Rapperswil
+- 6/2015 Civil Service at REMAR
 
