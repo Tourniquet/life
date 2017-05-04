@@ -2,29 +2,31 @@
 ===============
 
 - 03/05/1992 Born
-- ~1997 Figured out how to run games from a DOS shell
+- ~1997 Figure out how to run games from a DOS shell
 - 08/2001-06/2006 Primary School
 - 05/2002 First travel overseas, to Canada
-- ~2006 Got my first own PC
+- ~2006 Get my first own PC
 - 08/2006-06/2010 Gymnasium
-- ~2009 Got into programming on a TI Voyage 200
-- ~2009 Learned a bit of Top Pascal
+- ~2009 Get into programming on a TI Voyage 200
+- ~2009 Learn a bit of Top Pascal
+- 18/09/2009 My wonderful girlfriend, Jenni ❤️
 - 08/2010-06/2011 Software Engineering Apprenticeship at ZLI
-- 02/2011 Learned some C
-- 03/2011 Got introduced to linux (Suse), discovered Vim
-- 04/2011 Got into PHP/MySQL/HTML
-- 06/2011 Sold a website with a homebrew CMS
+- 02/2011 Learn some C
+- 03/2011 Get introduced to linux (Suse), discover Vim
+- 04/2011 Get into PHP/MySQL/HTML
+- 06/2011 Sell a website with a homebrew CMS
 - 25/06/2011 Set up my own Debian server
 - 08/2011-6/2014 Software Engineering Apprenticeship at SWITCH
 - 08/2011 First OO programming in Java
-- 08/2011 Got my first laptop (MBP8.1)
-- 08/2011-08/2011 Learned to love the command line, Vim
+- 08/2011 Get my first laptop (MBP8.1)
+- 08/2011-08/2011 Learn to love the command line, Vim
 - 01/2012 Java Web development on Tomcat
-- 01/2013 Implemented a Bounce Mail Handler in Perl
-- 23/4/2013 Got my driver's license
+- 01/2013 Implement a Bounce Mail Handler in Perl
+- 23/4/2013 Get my driver's license
 - 05/2013 Java Web development on JBoss/JSF
 - 5/2014 Got an EBCL Certificate
 - 3/6/2014 Berufsmaturitaet
-- 08/2014-~ Studying information technology at Hochschule für Technik Rapperswil
+- 08/2014-06/2017 Bachelor's Degree in Computer Science at Hochschule für Technik Rapperswil
 - 6/2015 Civil Service at REMAR
-
+- 08/2016-12/2016 Develop a Hardware Abstraction Tier for Berlinger
+- 02/2017-06/2017 Work on HiveWatch, a beehive analysis platform
