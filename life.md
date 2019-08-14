@@ -17,16 +17,20 @@
 - 06/2011 Sell a website with a homebrew CMS
 - 25/06/2011 Set up my own Debian server
 - 08/2011-6/2014 Software Engineering Apprenticeship at SWITCH
-- 08/2011 First OO programming in Java
+- 08/2011 Do first OO programming in Java
 - 08/2011 Get my first laptop (MBP8.1)
 - 08/2011-08/2011 Learn to love the command line, Vim
 - 01/2012 Java Web development on Tomcat
 - 01/2013 Implement a Bounce Mail Handler in Perl
 - 23/4/2013 Get my driver's license
 - 05/2013 Java Web development on JBoss/JSF
-- 5/2014 Got an EBCL Certificate
+- 5/2014 Get an EBCL Certificate
 - 3/6/2014 Berufsmaturitaet
 - 08/2014-06/2017 Bachelor's Degree in Computer Science at Hochschule für Technik Rapperswil
 - 6/2015 Civil Service at REMAR
 - 08/2016-12/2016 Develop a Hardware Abstraction Tier for Berlinger
-- 02/2017-06/2017 Work on HiveWatch, a beehive analysis platform
+- 02/2017-2019 Run [HiveWatch](https://hivewatch.ch), a beehive analysis platform
+- 10/2017-04/2018 Civil Service at Stiftung SWO
+- 05/2018-2019 Run [BuuronTour](https://www.buurontour.ch/) app, a local grocery subscription platform
+- 10/2018-01/2019 More Civil Service at Stiftung SWO
+- 03/2019-07/2019 Road trip around Australia
